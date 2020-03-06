@@ -11,12 +11,11 @@ Die erste kleine App ohne viel Logik zum Reinkommen.
 
 ### Allgemeines
 * [Material Design](https://material.io)
-* [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
-* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
-* [Material Design Colour System](https://material.io/design/color/the-color-system.html)
-* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-* [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
-* [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
+* [Scaffold Dokumentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
+* [AppBar Dokumentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
+* [Image Widget Dokumentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
+* [Pubspec Datei](https://www.dartlang.org/tools/pub/pubspec)
+* [Assets hinzufügen](https://flutter.dev/docs/development/ui/assets-and-images)
 
 ### Challenge
 Erstelle eine App die folgendes kann:
