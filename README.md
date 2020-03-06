@@ -1,0 +1,39 @@
+# Dart und Flutter: Eine alternative zur "klassischen" hybriden Appentwicklung?
+
+* [Get started with Flutter](https://flutter.dev/docs/get-started/install)  
+Bitte Android Studio installieren, da nicht alle auf Mac unterwegs sind und es so Einheitlich bleibt  
+* Wenn ihr ein Android Smartphone euer eigen nennt, könnt ihr diesen Schritt überspringen  
+[Ein virtuelles Device anlegen](https://developer.android.com/studio/run/managing-avds)  
+
+
+## I am poor
+Die erste kleine App ohne viel Logik zum Reinkommen.
+
+### Allgemeines
+* [Material Design](https://material.io)
+* [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
+* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
+* [Material Design Colour System](https://material.io/design/color/the-color-system.html)
+* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
+* [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
+* [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
+
+### Challenge
+Erstelle eine App die folgendes kann:
+* Punkt 1
+
+und wie folgt aussieht:  
+<!--- add image -->
+
+## MiCard - Schöne UI mit Flutter Widgets
+Hier soll der Gebrauch von Widgets nähergebracht werden.
+
+### Allgemeines
+* [MiCard Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/mi_card)
+
+### Challenge
+Erstelle eine App die folgendes kann:
+* Punkt 1
+
+und wie folgt aussieht:  
+<!--- add image -->
