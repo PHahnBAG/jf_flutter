@@ -28,9 +28,9 @@ und wie folgt aussieht:
 Hier soll der Gebrauch von Widgets nähergebracht werden.
 
 ### Allgemeines
-* [MiCard Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/mi_card)
 
 ### Challenge
+* Nutze das [Visitenkarte-Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/business_card)
 Erstelle eine App die folgendes kann:
 * Punkt 1
 
