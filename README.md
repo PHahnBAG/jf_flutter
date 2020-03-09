@@ -6,7 +6,7 @@ Bitte Android Studio installieren, da nicht alle auf Mac unterwegs sind und es s
 [Ein virtuelles Device anlegen](https://developer.android.com/studio/run/managing-avds)  
 
 
-## I am poor
+## Ich bin arm
 Die erste kleine App ohne viel Logik zum Reinkommen.
 
 ### Allgemeines
@@ -24,13 +24,14 @@ Erstelle eine App die folgendes kann:
 und wie folgt aussieht:  
 <!--- add image -->
 
-## MiCard - Schöne UI mit Flutter Widgets
+## Visitenkarte - Schöne UI mit Flutter Widgets
 Hier soll der Gebrauch von Widgets nähergebracht werden.
 
 ### Allgemeines
 
 ### Challenge
-* Nutze das [Visitenkarte-Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/tree/master/business_card)
+* Nutze das [Visitenkarte-Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/tree/master/business_card)  
+
 Erstelle eine App die folgendes kann:
 * Punkt 1
 

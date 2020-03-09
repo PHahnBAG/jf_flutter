@@ -7,7 +7,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'BusinessCard',
-      home: Container(),
+      home: Scaffold(
+        backgroundColor: Colors.teal,
+        body: Container(),
+      ),
     );
   }
 }
