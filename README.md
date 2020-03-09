@@ -30,7 +30,7 @@ Hier soll der Gebrauch von Widgets nähergebracht werden.
 ### Allgemeines
 
 ### Challenge
-* Nutze das [Visitenkarte-Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/business_card)
+* Nutze das [Visitenkarte-Projektgrundgerüst](https://github.com/PHahnBAG/jf_flutter/tree/master/business_card)
 Erstelle eine App die folgendes kann:
 * Punkt 1
 
